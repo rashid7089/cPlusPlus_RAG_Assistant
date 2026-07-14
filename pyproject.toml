@@ -1,5 +1,5 @@
 [project]
-name = "week-project-2"
+name = "cplusplus-rag-assistant"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,7 +10,7 @@ dependencies = [
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.0",
     "numpy>=2.4.6",
-    "openrouter>=0.11.11",
+    "openrouter>=0.11.23",
     "pandas>=3.0.3",
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.6.0",
